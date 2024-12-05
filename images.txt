@@ -1,4 +1,4 @@
 openjdk:17
 jenkins/jenkins:lts
-rabbitmq:lts
+amd64/rabbitmq:lts
 
